@@ -1,0 +1,32 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<!--
+2013-9-30: Created.
+-->
+<svg>
+<metadata>
+Created by iconfont
+</metadata>
+<defs>
+
+<font id="iconfont" horiz-adv-x="1024" >
+  <font-face
+    font-family="iconfont"
+    font-weight="500"
+    font-stretch="normal"
+    units-per-em="1024"
+    ascent="896"
+    descent="-128"
+  />
+    <missing-glyph />
+    
+    <glyph glyph-name="tubiaozhizuo-" unicode="&#58887;" d="M511.96 129.73000000000002L67 638.27h890L511.96 129.73000000000002z"  horiz-adv-x="1024" />
+
+    
+    <glyph glyph-name="fenlei" unicode="&#58930;" d="M164.3 689.6c-29.8 0-54-24.2-54-54s24.2-54 54-54 54 24.2 54 54-24.2 54-54 54z m188.9-94h525c20.7 0 37.5 17.9 37.5 40s-16.8 40-37.5 40h-525c-20.7 0-37.5-17.9-37.5-40s16.8-40 37.5-40zM164.3 436.8c-29.8 0-54-24.2-54-54s24.2-54 54-54 54 24.2 54 54-24.2 54-54 54z m713.9-14h-525c-20.7 0-37.5-17.9-37.5-40s16.8-40 37.5-40h525c20.7 0 37.5 17.9 37.5 40s-16.8 40-37.5 40zM164.3 184c-29.8 0-54-24.2-54-54s24.2-54 54-54 54 24.2 54 54-24.2 54-54 54z m713.9-14h-525c-20.7 0-37.5-17.9-37.5-40s16.8-40 37.5-40h525c20.7 0 37.5 17.9 37.5 40s-16.8 40-37.5 40z"  horiz-adv-x="1024" />
+
+    
+
+
+  </font>
+</defs></svg>
